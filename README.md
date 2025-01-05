@@ -124,11 +124,11 @@ Notes:
  
  
 Guideline For Effective Slide: 
-•	One Main Topic Per Slide: Each slide should focus on one main point or idea. Keep it simple, don't overload slides with too much information. 
-•	Clear Headings: Use clear and concise headings to tell what each slide is about. Headings should summarize the main point of the slide. 
-•	Use Simple Transition:  Stick to simple transitions that complement your presentation without being overwhelming. 
-•	Use Bullet Points: Instead of long sentences or paragraphs, use bullet points to list key ideas. Keep each bullet point short and to the point. 
-•	Big Fonts: Make sure the text on your slides is big enough to read from a distance. Use a simple font like Arial or Calibri, and make the font size at least 24pt.  
-•	Pictures Speak Louder: Use pictures or images to show what you're talking about. A picture can often explain things better than words. This doesn’t mean totally overwhelm your slide with pictures. In general, try to maintain a ratio of 70% text & 30% image. 
-•	Consistent Design: Keep the design of your slides consistent. Use the same colors, fonts, and layout throughout your presentation. 
+	#One Main Topic Per Slide: Each slide should focus on one main point or idea. Keep it simple, don't overload slides with too much information. 
+•#Clear Headings: Use clear and concise headings to tell what each slide is about. Headings should summarize the main point of the slide. 
+•	#Use Simple Transition:  Stick to simple transitions that complement your presentation without being overwhelming. 
+•	#Use Bullet Points: Instead of long sentences or paragraphs, use bullet points to list key ideas. Keep each bullet point short and to the point. 
+•	#Big Fonts: Make sure the text on your slides is big enough to read from a distance. Use a simple font like Arial or Calibri, and make the font size at least 24pt.  
+•	#Pictures Speak Louder: Use pictures or images to show what you're talking about. A picture can often explain things better than words. This doesn’t mean totally overwhelm your slide with pictures. In general, try to maintain a ratio of 70% text & 30% image. 
+•	#Consistent Design: Keep the design of your slides consistent. Use the same colors, fonts, and layout throughout your presentation. 
  
